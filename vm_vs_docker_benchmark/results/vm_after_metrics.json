@@ -1,0 +1,24 @@
+{
+    "label": "after",
+    "cpu_percent": 9.4,
+    "memory": {
+        "total": 2228355072,
+        "available": 942641152,
+        "percent": 57.7,
+        "used": 1090248704,
+        "free": 290689024,
+        "active": 317804544,
+        "inactive": 1315196928,
+        "buffers": 14766080,
+        "cached": 832651264,
+        "shared": 35360768,
+        "slab": 217628672
+    },
+    "disk": {
+        "total": 52518420480,
+        "used": 6717677568,
+        "free": 43099770880,
+        "percent": 13.5
+    },
+    "timestamp": 1747639761.1282058
+}
