@@ -1,0 +1,24 @@
+{
+    "label": "docker_before",
+    "cpu_percent": 10.4,
+    "memory": {
+        "total": 3078217728,
+        "available": 2261987328,
+        "percent": 26.5,
+        "used": 623742976,
+        "free": 1919766528,
+        "active": 213938176,
+        "inactive": 577093632,
+        "buffers": 36945920,
+        "cached": 497762304,
+        "shared": 3244032,
+        "slab": 143777792
+    },
+    "disk": {
+        "total": 1081101176832,
+        "used": 2980810752,
+        "free": 1023128010752,
+        "percent": 0.3
+    },
+    "timestamp": 1748253838.7086713
+}
