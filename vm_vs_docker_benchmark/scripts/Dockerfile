@@ -4,7 +4,7 @@ RUN apt update && apt install -y sysbench git curl procps \
     && pip install --upgrade pip \
     && pip install jupyter matplotlib psutil
 
-WORKDIR /app
-COPY scripts/ /app/scripts/
+WORKDIR /app/scripts
+COPY . .
 
-CMD ["python3", "/app/scripts/benchmark_docker.py"]
+CMD ["python3", "benchmark_docker.py"]
